@@ -1,3 +1,10 @@
 This is so important file
 
 This is the code changes made by branch2
+
+
+<<<<<<< Updated upstream
+the code changes are made by master
+=======
+this is the code change made in master.
+>>>>>>> Stashed changes
