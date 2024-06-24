@@ -33,3 +33,11 @@ lets create file3 and store the code required for testing.
 lets create another branch branch2 ( git checkout master --> this will switch to master),( use git branch --> to check in which branch you are)
 
 git checkout -b branch2
+
+git checkout branch1 --> switches to branch1 ( made some code changes to file1)
+
+git checkout branch2 --> swictched to branch2 ( made some code changes to file2)
+
+git checkout branch1 , git merge branch2 ( will merge branch2 to branch1) (the branch1 will have changes both of branch1 & branch2)
+
+git branch -D branch2 ( delete the branch2 as branch1 have changes of branch2) and do git push on branch1
