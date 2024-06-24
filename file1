@@ -1,4 +1,8 @@
 Hi helloworld this is git code 
 
 
+<<<<<<< HEAD
 This is the code change made by branch1
+=======
+code changes made by branch1
+>>>>>>> branch2
